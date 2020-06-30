@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328921599992",
+    "firebase_url": "https://practicumlog-13f2c.firebaseio.com",
+    "project_id": "practicumlog-13f2c",
+    "storage_bucket": "practicumlog-13f2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328921599992:android:f63d397da14538ffd1900d",
+        "android_client_info": {
+          "package_name": "com.project.practicumlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328921599992-g2nprpab5pkblj0qjvb8kif40go78a98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.practicumlog",
+            "certificate_hash": "d1abdcb166af2642ee4eaf25ebf7e458d9e40a57"
+          }
+        },
+        {
+          "client_id": "328921599992-q07a904pp5sjg70aqev67k2i2ic78u85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzNPXm_cHtrFWpNjq1vJ5vc8bUSljL2C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328921599992-q07a904pp5sjg70aqev67k2i2ic78u85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
